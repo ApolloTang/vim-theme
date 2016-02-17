@@ -11,7 +11,7 @@ endif
 let colors_name = "apollotang"
 :hi Normal guifg=White guibg=grey13
 :hi Cursor guibg=khaki guifg=slategrey
-:hi VertSplit guibg=#c2bfa5 guifg=grey40 gui=none cterm=reverse
+:hi VertSplit guibg=gray10 guifg=grey60 gui=bold cterm=reverse
 :hi Folded guibg=black guifg=grey40 ctermfg=grey ctermbg=darkgrey
 :hi FoldColumn guibg=black guifg=grey20 ctermfg=4 ctermbg=7
 :hi IncSearch guifg=green guibg=black cterm=none ctermfg=yellow ctermbg=green
@@ -21,8 +21,8 @@ let colors_name = "apollotang"
 :hi Question guifg=springgreen ctermfg=green
 :hi Search guibg=peru guifg=wheat cterm=none ctermfg=grey ctermbg=blue
 :hi SpecialKey guifg=#606060 ctermfg=darkgreen
-:hi StatusLine guibg=#c2bfa5 guifg=black gui=none cterm=bold,reverse
-:hi StatusLineNC guibg=#c2bfa5 guifg=grey40 gui=none cterm=reverse
+:hi StatusLine   guibg=black   guifg=gray50  gui=bold,reverse cterm=bold,reverse ctermbg=0 ctermfg=15
+:hi StatusLineNC guibg=#c2bfa5 guifg=gray30  gui=reverse      cterm=bold,reverse ctermbg=0 ctermfg=8
 :hi Title guifg=gold gui=bold cterm=bold ctermfg=yellow
 :hi Statement guifg=CornflowerBlue ctermfg=lightblue gui=none
 :hi Visual gui=none guifg=khaki guibg=olivedrab cterm=reverse
