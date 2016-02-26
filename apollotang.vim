@@ -17,7 +17,7 @@ let colors_name = "apollotang"
 :hi IncSearch guifg=green guibg=black cterm=none ctermfg=yellow ctermbg=green
 :hi ModeMsg guifg=goldenrod cterm=none ctermfg=brown
 :hi MoreMsg guifg=SeaGreen ctermfg=darkgreen
-:hi NonText guifg=RoyalBlue guibg=grey13 cterm=bold ctermfg=blue
+:hi NonText guifg=#606060 guibg=grey13 cterm=bold ctermfg=blue
 :hi Question guifg=springgreen ctermfg=green
 :hi Search guibg=peru guifg=wheat cterm=none ctermfg=grey ctermbg=blue
 :hi SpecialKey guifg=#606060 ctermfg=darkgreen
