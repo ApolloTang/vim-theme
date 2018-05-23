@@ -12,7 +12,7 @@ let colors_name = "apollotang"
 :hi Normal guifg=White guibg=grey13
 :hi Cursor guibg=khaki guifg=slategrey
 :hi VertSplit guibg=gray10 guifg=grey60 gui=bold cterm=reverse
-:hi Folded guibg=black guifg=grey40 ctermfg=grey ctermbg=darkgrey
+:hi Folded guibg=grey13 guifg=grey40 ctermfg=grey ctermbg=darkgrey
 :hi FoldColumn guibg=black guifg=grey20 ctermfg=4 ctermbg=7
 :hi IncSearch guifg=green guibg=black cterm=none ctermfg=yellow ctermbg=green
 :hi ModeMsg guifg=goldenrod cterm=none ctermfg=brown
